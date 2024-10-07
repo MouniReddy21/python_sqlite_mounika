@@ -6,4 +6,6 @@ This repo contains the initial setup of python environment with SQLite running i
 - app3.py contains code for Transactions and Rollback
 - app4.py contains code for Row factory
 - app5.py contains code for working with binary data.
+- Folder advanced_sql contains joins, foreign keys and consistency constraints task.
+
 
